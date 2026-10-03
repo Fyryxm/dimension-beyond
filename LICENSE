@@ -1,0 +1,42 @@
+ALL RIGHTS RESERVED / 保留全部权利
+
+Copyright © 2026 Fyryxm. All rights reserved.
+
+《维度之外》及本仓库中由作者创作的文字、编排和其他原创内容受适用著作权法保护。
+本作品不是开源作品，不适用 MIT、Apache、GPL、Creative Commons 或其他开放许可。
+公开访问本仓库不构成任何默示的复制、转载、改编、翻译、发行、商业利用或机器学习训练许可。
+
+1. PERSONAL READING / 个人阅读
+The author permits an individual to download or make a copy solely for personal, non-commercial reading and archival use.
+作者允许个人为非商业阅读和个人存档目的下载或保存一份副本。
+
+2. QUOTATION / 引用
+Brief quotations may be made where permitted by applicable law, provided clear attribution is given to:
+《维度之外》, Fyryxm, and the original GitHub repository.
+在适用法律允许的合理引用范围内，可引用少量内容，但须清楚注明《维度之外》、作者 Fyryxm 及原始 GitHub 仓库来源。
+
+3. PRIOR WRITTEN PERMISSION REQUIRED / 须事先书面许可
+Except for rights granted above or rights that cannot legally be restricted, prior written permission is required for:
+- republication or redistribution of the whole work or substantial portions;
+- mirroring or hosting copies on another website, repository, app, database, or service;
+- translation, adaptation, abridgment, compilation, derivative works, audiobooks, videos, courses, or other transformed versions;
+- commercial use, paid distribution, licensing, resale, or promotional use;
+- inclusion of the whole work or substantial portions in datasets, retrieval corpora, vector databases, RAG systems, model-training corpora, fine-tuning datasets, or similar machine-learning pipelines;
+- use that implies endorsement, sponsorship, partnership, or authorization by the author.
+
+除上述明确允许的用途及法律不能排除的权利外，全文或实质性部分转载、镜像、重新分发、翻译、改编、删节、汇编、衍生创作、音视频/课程制作、商业利用，以及纳入数据集、RAG语料库、向量库、AI模型训练或微调等用途，均须事先取得作者书面许可。
+
+4. NO PUBLIC-DOMAIN DEDICATION / 非公共领域
+No part of this notice dedicates the work to the public domain or grants a general copyright license.
+本声明不构成对作品的公共领域放弃，也不授予任何一般性著作权许可。
+
+5. GITHUB-SPECIFIC PLATFORM LICENSE / GitHub 平台条款例外
+By publishing this work on GitHub, the author necessarily grants GitHub, its Affiliates, and other GitHub users the limited rights required by GitHub's then-current Terms of Service, including rights associated with hosting, display, forking, service operation, and any additional rights expressly required by those Terms. Those platform-required rights arise from the author's use of GitHub and are not expanded by this notice. No additional copyright license is granted to third parties beyond GitHub's platform terms, the permissions expressly stated in this notice, and non-waivable statutory exceptions.
+将本作品发布到 GitHub，即意味着作者必须接受 GitHub 当时有效的服务条款，并因此向 GitHub、其关联方及 GitHub 用户授予条款所要求的有限平台权利，包括托管、展示、fork、服务运行以及条款明确要求的其他权利。该等权利来源于 GitHub 平台条款，而不是本版权声明主动开放。除 GitHub 平台条款、本文明确许可及不可排除的法定例外外，不向任何第三方授予额外著作权许可。
+
+6. STATUTORY EXCEPTIONS / 法定例外
+Nothing in this notice restricts fair use, fair dealing, quotation rights, library exceptions, or other rights that applicable law grants regardless of the author's permission.
+本声明不限制适用法律中依法成立的合理使用、合理处理、法定引用、图书馆例外或其他不可排除的法定权利。
+
+For permissions, contact the author through the GitHub account that owns the original repository.
+授权申请请通过原始仓库所属 GitHub 账号联系作者。
